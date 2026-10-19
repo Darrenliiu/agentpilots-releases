@@ -1,0 +1,8 @@
+{
+  "version": "0.1.1",
+  "versionCode": 1001,
+  "apk": "https://github.com/Darrenliiu/agentpilots-releases/releases/download/android-v0.1.1/AgentPilots-0.1.1-arm64.apk",
+  "sha256": "0d7b213340b6d9ab84a522871a679c0f6fc8fb90e659564080738b22146f51df",
+  "size": 15438933,
+  "notes": "Auto update check."
+}
