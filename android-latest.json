@@ -1,8 +1,8 @@
 {
-  "version": "0.1.2",
-  "versionCode": 1002,
-  "apk": "https://github.com/Darrenliiu/agentpilots-releases/releases/download/android-v0.1.2/AgentPilots-0.1.2-arm64.apk",
-  "sha256": "d78b32f537dc81f91c64800e31ed9013ab0b01bace4ec7b0dcffe59bd01c6257",
-  "size": 15445685,
-  "notes": "New Material look: live thinking bubbles on working agents, tool badges on avatars, calmer glow."
+  "version": "0.1.3",
+  "versionCode": 1003,
+  "apk": "https://github.com/Darrenliiu/agentpilots-releases/releases/download/android-v0.1.3/AgentPilots-0.1.3-arm64.apk",
+  "sha256": "0159ea901412dc3781d319a35643e5b1d945881a323bb13a09f956d99f6d6202",
+  "size": 15478421,
+  "notes": "AgentPilots 0.1.3"
 }
